@@ -101,6 +101,8 @@ Business insight generation
 Power BI dashboard creation
 It can be used as a portfolio project for Data Analyst / Data Analytics Fresher roles.
 
+
+
 👨‍💻 Author
 Onkar Keshav Sonawane
 Aspiring Data Analyst
